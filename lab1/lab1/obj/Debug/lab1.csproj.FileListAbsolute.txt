@@ -1,0 +1,6 @@
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab1\lab1\obj\Debug\lab1.pdb
