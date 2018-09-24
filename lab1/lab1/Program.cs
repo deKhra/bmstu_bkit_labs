@@ -8,7 +8,7 @@ namespace lab1
         {
             double a, b, c;
             Console.Write("Введите коэффициент a: ");
-            while (double.TryParse(Console.ReadLine(), out a) == false)
+            while (double.TryParse(Console.ReadLine(), out a) == false || a==0)
             {
                 Console.WriteLine("Ошибка. Повторите ввод.");
             }
