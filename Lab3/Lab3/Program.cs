@@ -10,11 +10,30 @@ namespace Lab3
     {
         static void Main(string[] args)
         {
-            //Rectangle a = new Rectangle(10, 12);
-            //a.Print();
-            //Rectangle b = new Rectangle(40, 3);
-            //b.Print();
-            //Console.WriteLine(a.CompareTo(b));
+            List<Figure> fig = new List<Figure>();
+            fig.Add(new Rectangle(10, 12));
+            fig.Add(new Circle(10));
+            fig.Add(new Square(10));
+            foreach (Figure f in fig)
+            {
+                Console.WriteLine(f);
+            
+            }
+
+            Matrix<Figure> matrix =new Matrix<Figure>(3,3,3,new FigureMatrixCheckEmpty());
+
+            matrix[0, 0, 1] = fig[0];
+            matrix[0, 1, 0] = fig[1];
+            matrix[1, 0, 0] = fig[2];
+
+            Console.WriteLine(matrix);
+
+            fig.Sort();
+            foreach (Figure f in fig)
+            {
+                Console.WriteLine(f);
+
+            } 
             int a = 10;
             int nn = a;
             Console.Read();
