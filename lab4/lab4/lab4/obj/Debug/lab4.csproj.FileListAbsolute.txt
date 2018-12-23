@@ -1,1 +1,9 @@
 C:\Users\Denis\Documents\bmstu_bkit_labs\lab4\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab4\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab4\lab4\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab4\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab4\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab4\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab4\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab4\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab4\lab4\lab4\obj\Debug\lab4.pdb
