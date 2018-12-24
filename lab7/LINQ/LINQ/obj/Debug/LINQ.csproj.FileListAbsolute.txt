@@ -1,0 +1,6 @@
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab7\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab7\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab7\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab7\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab7\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab7\LINQ\LINQ\obj\Debug\LINQ.pdb
