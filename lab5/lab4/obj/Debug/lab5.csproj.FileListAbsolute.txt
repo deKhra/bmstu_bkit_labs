@@ -1,0 +1,9 @@
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab5\lab4\bin\Debug\lab5.exe.config
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab5\lab4\bin\Debug\lab5.exe
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab5\lab4\bin\Debug\lab5.pdb
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab5\lab4\obj\Debug\lab5.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab5\lab4\obj\Debug\lab5.Form1.resources
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab5\lab4\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab5\lab4\obj\Debug\lab5.csproj.GenerateResource.Cache
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab5\lab4\obj\Debug\lab5.exe
+C:\Users\Denis\Documents\bmstu_bkit_labs\lab5\lab4\obj\Debug\lab5.pdb
